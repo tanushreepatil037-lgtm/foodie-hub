@@ -2,7 +2,7 @@
 {
   "name": "foodie-hub",
   "version": "1.0.0",
-  "description": "Responsive FoodieHub website",
+  "description": "Foodie Hub Website",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
